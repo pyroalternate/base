@@ -1,0 +1,303 @@
+[
+    {
+        "title": "Flash",
+        "image": "/games/images/flash.jpg",
+        "location": "/games/files/flash"
+    },
+    {
+        "title": "Osu",
+        "image": "/games/images/osu.png",
+        "location": "/games/files/webosu"
+    },
+    {
+        "title": "GBA",
+        "image": "/games/images/gba.png",
+        "location": "/games/files/webretro/?core=mgba"
+    },
+    {
+        "title": "Genesis",
+        "image": "/games/images/genesis.png",
+        "location": "/games/files/webretro/?core=genesis_plus_gx"
+    },
+    {
+        "title": "NES",
+        "image": "/games/images/nes.png",
+        "location": "/games/files/webretro/?core=nestopia"
+    },
+    {
+        "title": "N64",
+        "image": "/games/images/n64.png",
+        "location": "/games/files/webretro/?core=mupen64plus_next"
+    },
+    {
+        "title": "SNES",
+        "image": "/games/images/snes.png",
+        "location": "/games/files/webretro/?core=snes9x"
+    },
+    {
+        "title": "Asteroids",
+        "image": "/games/images/asteroids.png",
+        "location": "/games/files/asteroids"
+    },
+
+    {
+        "title": "Super Mario",
+        "image": "/games/images/mario.png",
+        "location": "/games/files/FullScreenMario"
+    },
+    {
+        "title": "Astray",
+        "image": "/games/images/astray.png",
+        "location": "/games/files/astray"
+    },
+    {
+        "title": "HexGL",
+        "image": "/games/images/hexgl.jpg",
+        "location": "/games/files/HexGL"
+    },
+    {
+        "title": "Algaes Escapade",
+        "image": "/games/images/algaes-escapade.png",
+        "location": "/games/files/algaes-escapade"
+    },
+    {
+        "title": "Flappy Bird",
+        "image": "/games/images/flappy-bird.png",
+        "location": "/games/files/flappy-bird"
+    },
+    {
+        "title": "Friday Night Funkin'",
+        "image": "/games/images/fridaynightfunkin.jpg",
+        "location": "/games/files/fridaynightfunkin"
+    },
+    {
+        "title": "Garbage Collector",
+        "image": "/games/images/garbage-collector.png",
+        "location": "/games/files/garbage-collector"
+    },
+    {
+        "title": "Geometry Dash",
+        "image": "/games/images/geometrydash.png",
+        "location": "/games/files/geo.html"
+    },
+    {
+        "title": "Gopher Kart",
+        "image": "/games/images/gopher-kart.png",
+        "location": "/games/files/gopher-kart"
+    },
+    {
+        "title": "Hextris",
+        "image": "/games/images/hextris.png",
+        "location": "/games/files/hextris"
+    },
+    {
+        "title": "Minecraft",
+        "image": "/games/images/minekhan.png",
+        "location":"https://astrounblocker.ml/games/files/mc.html"
+    },
+    {
+        "title": "Pacman",
+        "image": "/games/images/pacman.jpg",
+        "location": "/games/files/pacman"
+    },
+    {
+        "title": "Space Invaders",
+        "image": "/games/images/space-invaders.png",
+        "location": "/games/files/space-invaders"
+    },
+    {
+        "title": "Syobon Action",
+        "image": "/games/images/syobon-action.jpg",
+        "location": "/games/files/syobon-action"
+    },
+    {
+        "title": "2048",
+        "image": "/games/images/2048.png",
+        "location": "/games/files/2048"
+    },
+    {
+        "title": "Justfall.lol",
+        "image": "/games/images/justfall-lol.jpg",
+        "location": "https://ub.astroub.ml/servicehttps://justfall.lol"
+    },
+    {
+        "title": "Paper.io",
+        "image": "/games/images/paper-io.jpg",
+        "location": "https://ub.astroub.ml/servicehttps://paper-io.com"
+    },
+    {
+        "title": "Shell Shockers",
+        "image": "/games/images/shellshockers.jpg",
+        "location": "https://ub.astroub.ml/servicehttps://shellshock.io"
+    },
+    {
+        "title": "Zombs Royale",
+        "image": "/games/images/zombsroyale.jpg",
+        "location": "https://ub.astroub.ml/servicehttps://zombsroyale.io"
+    },
+    {
+        "title": "ev.io",
+        "image": "/games/images/ev.png",
+        "location": "https://ub.astroub.ml/service/https://ev.io"
+    },
+    {
+        "title": "Diep.io",
+        "image": "/games/images/diep.png",
+        "location": "https://ub.astroub.ml/service/https://diep.io"
+    },
+    {
+        "title": "1v1.lol",
+        "image": "/games/images/1v1-lol.jpg",
+        "location": "https://ub.astroub.ml/service/https://1v1.lol"
+    },
+    {
+        "title": "Brutal.io",
+        "image": "/games/images/brut.png",
+        "location": "https://ub.astroub.ml/service/https://brutal.io"
+    },
+    {
+        "title": "BrowserQuest.io",
+        "image": "/games/images/brow.jpg",
+        "location": "https://ub.astroub.ml/service/https://browserquest.io"
+    },
+    {
+        "title": "lolbeans.io",
+        "image": "/games/images/lol.jpg",
+        "location": "https://ub.astroub.ml/service/https://lolbeans.io"
+    },
+    {
+        "title": "Shapez.io",
+        "image": "/games/images/shap.jpg",
+        "location": "https://ub.astroub.ml/service/https://shapez.io"
+    },
+    {
+        "title": "Smashkarts.io",
+        "image": "/games/images/smas.jpg",
+        "location": "https://ub.astroub.ml/service/https://smashkarts.io"
+    },
+    {
+        "title": "Voxiom.io",
+        "image": "/games/images/vox.jpg",
+        "location": "https://ub.astroub.ml/service/https://voxiom.io"
+    },
+    {
+        "title": "Hole.io",
+        "image": "/games/images/hole.png",
+        "location": "https://ub.astroub.ml/service/https://hole-io.com"
+    },
+    {
+        "title": "Bruh.io",
+        "image": "/games/images/bruh.png",
+        "location": "https://ub.astroub.ml/service/https://bruh.io"
+    },
+    {
+        "title": "Chess",
+        "image": "/games/images/chess.png",
+        "location": "/games/files/chess"
+    },
+    {
+        "title": "Run 3",
+        "image": "/games/images/run.png",
+        "location": "/games/files/run3"
+    },
+    {
+        "title": "A Dark Room",
+        "image": "/games/images/dark.jpg",
+        "location": "/games/files/adarkroom"
+    },
+    {
+        "title": "Cookie Clicker",
+        "image": "/games/images/cookie.jpg",
+        "location": "/games/files/cookieclicker"
+    },
+    {
+        "title": "Chrome://Dino",
+        "image": "/games/images/dino.jpg",
+        "location": "/games/files/chromedino"
+    },
+    {
+        "title": "Achievement Unlocked",
+        "image": "/games/images/achievementunlocked.jpg",
+        "location": "/games/files/flash/?fg&swf=achievementunlocked.swf"
+    },
+    {
+        "title": "Cubefield",
+        "image": "/games/images/cubefield.jpeg",
+        "location": "/games/files//?fg&swf=cubefield.swf"
+    },
+    {
+        "title": "FireFox",
+        "image": "/games/images/firefox.png",
+        "location": "https://replit.com/@SwellCoding/firefox?embed=1#main.sh"
+    },
+    {
+        "title": "Roblox",
+        "image": "/games/images/roblox.png",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-rmbnoz-aoppmrctkol%2F7369-rmbnoz/"
+    },
+    {
+        "title": "PUBG",
+        "image": "/games/images/pubg.png",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-ppozioa%2Fbgtc%2F0629-pwbe-oo%60ine%2Frgsksvalcg/"
+    },
+    {
+        "title": "Among Us",
+        "image": "/games/images/sus.jpg",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-ilngrqlmtj-nla%2F6067-aoolg%2Fuq/"
+    },
+    {
+        "title": "Raid: Shadow Legends",
+        "image": "/games/images/raid.jpg",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-pnapiwm-6%3A84%2Fpakd%2Flgggnfs"
+    },
+    {
+        "title": "Uno!",
+        "image": "/games/images/uno.jpg",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-mctven143%2Flkmktgd-6585%2Fwnm"
+    },
+    {
+        "title": "Happy Wheels",
+        "image": "/games/images/whee.jpg",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-jcmgs%2Fbmnccai-8393%2Fjarp%7B-uhgens/"
+    },
+    {
+        "title": "Minecraft Bedrock",
+        "image": "/games/images/minekhan.png",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-mmjcne%2F0514-mkngcpadt%2Ftpicl/"
+    },
+    {
+        "title": "Gacha Life",
+        "image": "/games/images/gac.png",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-lwnkmg%2F7747-gccja%2Flkfg"
+    },
+    {
+        "title": "Pixel Gun 3D",
+        "image": "/games/images/pix.jpg",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Fnp-pkxgl%2Fgwn%2F3f%2F0672-pkxgl%2Fgwn%3Drgfgrpep%3Djtvpq%251A'2D%250Flou.eg'2Darpq%250Frizen-eul-1d'2D2450%250Frizen-eul.jtol%24tmkgn%3Fe%7BJjbEckOkJKUxI3NkIqIlR7cAI4IipZVAJ%3B.gyHzXXLzcW%3BuQWSiMiKwOUXXPj[zW0jBPlXLQlO0OjTFT0TZPT%40WSyKsKm7vf1TzXXHJXCK6KjCxPla4TkTTMD%40NUlG2ODTBOD%40OUTLFWEmzKiuicH[iMmXh%60HLlNCHw[WLr[WflVmDtXSK6KmLv%60S7wcXjl%60C7nfW6zXCKsKn%401[mzpa2jlaiK6Km7vf2fnKiui[X%40wW2z1XyK6Kn%40pgGTsNWf1%60iKsKmDwaF%401[mzpa2jlalLsfWaiMiHwcXjl%60C3nfW6tO2SiNCHj[W3w[Wnn%60knkKjmiQ0ftczW0aHP0X2fnPTjncGnUc0m2XErCKiui[X%40wQWSiMiKyLjWyKiuiaGzhgVPp%60WWiMjGwMDCwNCHyXWPpamTjfFTy%60CK6Kmj0fH%40zMi%3Av%60m%3B3NmfnN2zwN3%40pgGTsNWf1%60i2zXC%3AyLjWyN3%40pgGTsNWf1%60iKsKmnhfCK6OT[0LTS4OjKwLiuiXXjwKjmxLjS1LDezOTC2dQ%2C-mSoyVJpgofAPITP_RJAgQum6mXaKO2eXL9I7hN]f%2Fw%24sgsqimnKd%3F03FUF43QHCFTKHS627EUE[E2VA/"
+    },
+    {
+        "title": "Looney Tunes",
+        "image": "/games/images/loo.jpg",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Fnp-saoreny-1082%2Fnomngy%2Ftwngs%3Drgfgrpep%3Djtvpq%251A'2D%250Flou.eg'2D%26voiel%3DgyHh%60GaiMiHIWzK1LiKsKnP5aCK6KkrXTCH9%2Ce%7BJxZZNxaU9wSUQkOkIuMWZZODkzNTdLMFg0M25KU21GUVBGWnY0NkIqIo5td3VxZZJHZAI4IhAzRnc6ViVVOFBLWnE0MFV%40MFBMWVNDUGoxIkwkaJYkOoZjbJNnLAJuYUNpYUdnToFvZQI4IoNtbQ5jcZVuZZBlYU1nc%7B5uco9sZUN2cEVuZQIqIlB3Yoxrc0hnckI4Io5td0dlIkwkYZBuU0x3Z%7BI4Ioxtb05neQ12dU5nc%7BIqIoFucDB3Yoxrc0hncnNqdUckOkJxY09uZUx7IkwkY0FvcEFrZ05HZAI4IhlSaWN%7BR1l0NoFla0IzbJdxQhg2bop%7Bc%7BIqIoFucGliIhokMVI6MAIqIlBqYZlWaU1nIhozOFAuLAJ%7BZURrcoVhdDV%7BbAI4Ioh2dJBxOk8tbo91LodlL0xuL1Nhb1BnbJktMVI6MA9qb09wZZkvdJVwZZMkLAJrYZQkOhE0NFU%7BNxI2MFUqIoV6cAI4MVY2NVI1MxMuNZ0%2CC62hJdx%2FkvkSWRI3uZIi4QNllZMw4v2Fg6VkSwHrB%40I%24sgsqimnKd%3F03FU8%5B17WO0%3A61NJSODS0FZT64/"
+    },
+    {
+        "title": "Bowmasters",
+        "image": "/games/images/bow.png",
+        "location": "https://ub2.astroub.ml/c/hvtrs8%2F-nmw%2Cge%2Frlcy-pna%7Bggnfapy%2Flkmktgd-5193%2F%60oumcsveps/"
+    },
+   {
+        "title": "Donkey Kong",
+        "image": "/games/images/kong.png",
+        "location": "/games/files/flash/?fg&swf=donkeykong.swf"
+    },
+  {
+        "title": "Super Mario Flash 2",
+        "image": "/games/images/mar.jpg",
+        "location": "/games/files/flash/?fg&swf=supermarioflash2.swf"
+    },
+  {
+        "title": "Minecraft (Hidden)",
+        "image": "/games/images/minekhan.png",
+        "location": "/games/images/mine"
+    }
+]

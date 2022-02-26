@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click on the Download button to download the image and open the .html file in the browser once uploaded. Server ip is wss://mc.astromc.gq/server<p>
+
+ <a href="mc.html" download="mc.html">
+  <img src="minekhan.jpg" alt="Download">
+</a> 
+
+</body>
+</html>

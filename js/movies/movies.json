@@ -1,0 +1,298 @@
+[
+    {
+        "title": "Spider-Man Far From Home",
+        "image": "../js/movies/images/ffh.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt6320628"
+    },
+    {
+        "title": "Spider-Man No Way Home",
+        "image": "../js/movies/images/nwh.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt10872600"
+    },
+    {
+        "title": "Encanto",
+        "image": "../js/movies/images/enc.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt2953050"
+    },
+    {
+        "title": "ShangChi and the Legend of the 10 Rings",
+        "image": "../js/movies/images/chi.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt9376612"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "image": "../js/movies/images/ha.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0241527"
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "image": "../js/movies/images/down.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0295297"
+    },
+    {
+        "title": "Eternals",
+        "image": "../js/movies/images/eternals.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt9032400"
+    },
+    {
+        "title": "Godzilla: King of Monsters",
+        "image": "../js/movies/images/godzilla.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt3741700"
+    },
+    {
+        "title": "Godzilla vs. Kong",
+        "image": "../js/movies/images/kong.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt5034838"
+    },
+    {
+        "title": "Black Widow",
+        "image": "../js/movies/images/blackwidow.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt3480822"
+    },
+    {
+        "title": "Captain Marvel",
+        "image": "../js/movies/images/marvel.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt4154664"
+    },
+    {
+        "title": "Free Guy",
+        "image": "../js/movies/images/freeguy.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt6264654"
+    },
+    {
+        "title": "The Avengers",
+        "image": "../js/movies/images/avengers.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0848228"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "image": "../js/movies/images/homecoming.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt2250912"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "image": "../js/movies/images/inf.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt4154756"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "image": "../js/movies/images/end.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt4154796"
+    },
+    {
+        "title": "Venom",
+        "image": "../js/movies/images/ven.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt1270797"
+    },
+    {
+        "title": "Venom: Let There Be Carnage",
+        "image": "../js/movies/images/ven2.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt7097896"
+    },
+    {
+        "title": "Home Alone",
+        "image": "../js/movies/images/home.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0099785"
+    },
+    {
+        "title": "Black Panther",
+        "image": "../js/movies/images/blck.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt1825683"
+    },
+    {
+        "title": "Captain America: Civil War",
+        "image": "../js/movies/images/civ.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt3498820"
+    },
+    {
+        "title": "Doctor Strange",
+        "image": "../js/movies/images/stg.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt1211837"
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "image": "../js/movies/images/ge.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt2015381"
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "image": "../js/movies/images/g2.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt3896198"
+    },
+    {
+        "title": "The Amazing Spider-Man 2",
+        "image": "../js/movies/images/spid.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt1872181"
+    },
+    {
+        "title": "Deadpool",
+        "image": "../js/movies/images/ded.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt1431045"
+    },
+    {
+        "title": "Deadpool 2",
+        "image": "../js/movies/images/ded2.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt5463162"
+    },
+    {
+        "title": "Thor: Ragnarok",
+        "image": "../js/movies/images/rag.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt3501632"
+    },
+    {
+        "title": "Ant-Man",
+        "image": "../js/movies/images/ant.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0478970"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "image": "../js/movies/images/ult.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt2395427"
+    },
+    {
+        "title": "Shazam!",
+        "image": "../js/movies/images/shaz.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0448115"
+    },
+    {
+        "title": "Elf",
+        "image": "../js/movies/images/elf.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0319343"
+    },
+    {
+        "title": "The Basketball Diares",
+        "image": "../js/movies/images/dia.jpg",
+        "location": "https://www.2embed.ru/embed/imdb/movie?id=tt0112461"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "image": "../js/movies/images/em.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=673"
+    },
+    {
+        "title": "Our Beloved Summer",
+        "image": "../js/movies/images/emr.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/tv?id=135897&s=1&e=1"
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "image": "../js/movies/images/gob.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=674"
+    },
+    {
+        "title": "Raya and the Last Dragon",
+        "image": "../js/movies/images/ray.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=527774"
+    },
+    {
+        "title": "The Legend of the Blue Sea",
+        "image": "../js/movies/images/sea.jpg",
+        "location": "/sea.html"
+    },
+    {
+        "title": "UP!",
+        "image": "../js/movies/images/up.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=14160"
+    },
+    {
+        "title": "Hulk",
+        "image": "../js/movies/images/hukk.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=1927"
+    },
+    {
+        "title": "Demon Slayer: Mugen Train",
+        "image": "../js/movies/images/mug.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=635302"
+    },
+    {
+        "title": "Jurassic Park",
+        "image": "../js/movies/images/jur.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=329"
+    },
+    {
+        "title": "Joker",
+        "image": "../js/movies/images/jok.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=475557"
+    },
+    {
+        "title": "12 Mighty Orphans",
+        "image": "../js/movies/images/or.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=625169"
+    },
+    {
+        "title": "Pirates of the Caribbean: At World's End",
+        "image": "../js/movies/images/1.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=285"
+    },
+    {
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "image": "../js/movies/images/2.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=1865"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "image": "../js/movies/images/3.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=22"
+    },
+    {
+        "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "image": "../js/movies/images/4.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=166426"
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "image": "../js/movies/images/5.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=392044"
+    },
+    {
+        "title": "Dune",
+        "image": "../js/movies/images/6.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=438631"
+    },
+    {
+        "title": "Ratatouille",
+        "image": "../js/movies/images/19.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=2062"
+    },
+    {
+        "title": "Wonder Woman",
+        "image": "../js/movies/images/2345.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=297762"
+    },
+    {
+        "title": "Wonder Woman 1984",
+        "image": "../js/movies/images/12345.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=464052"
+    },
+    {
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "image": "../js/movies/images/grin.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=338952"
+    },
+    {
+        "title": "Fantastic Beasts and Where to Find Them",
+        "image": "../js/movies/images/ba.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=259316"
+    },
+    {
+        "title": "Man of Steel",
+        "image": "../js/movies/images/ste.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=49521"
+    },
+  {
+        "title": "It",
+        "image": "../js/movies/images/it.jpg",
+        "location": "https://www.2embed.ru/embed/tmdb/movie?id=346364"
+    }
+  
+  
+  
+    
+    
+
+
+
+
+
+
+]
