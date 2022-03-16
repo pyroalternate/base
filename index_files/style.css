@@ -9,6 +9,7 @@ background-color: black;
 --blue: #cf1919;
 }
 
+
 * {
 font-family: 'MuseoModerno';
 }
@@ -39,6 +40,9 @@ section:target { /* Show section */
 
 section#home { /* Show #home by default */
   display: block;
+}
+section:target iframe {
+  visibility: visible;
 }
 
 
