@@ -38,7 +38,7 @@ section:target { /* Show section */
   display: block;
 }
 
-section#home { /* Show #home by default */
+section#page { /* Show #home by default */
   display: block;
 }
 section:target iframe {
