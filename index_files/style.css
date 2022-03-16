@@ -9,7 +9,6 @@ background-color: black;
 --blue: #cf1919;
 }
 
-
 * {
 font-family: 'MuseoModerno';
 }
@@ -21,30 +20,6 @@ display: none;
 ::placeholder {
 color: #FFFFFF;
 }
-/* ------- Sections ------- */
-
-section {
-  padding: calc(6em + 5vw) 5vw 8vw 5vw;
-  /* ! Everything below is needed ! */
-  display: none;
-  position: absolute;
-  top: 0;
-  min-height: 100vh;
-  width: 100%;
-  background: var(--bgcolor);
-}
-
-section:target { /* Show section */
-  display: block;
-}
-
-section#page { /* Show #home by default */
-  display: block;
-}
-section:target iframe {
-  visibility: visible;
-}
-
 
 .navbar {
 background-color:black;
