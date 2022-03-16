@@ -47,7 +47,7 @@
 <link rel="stylesheet" href="./index_files/all.min(1).css">
 
 <div class="navitem arcade"><a href="/">Home</a></div>
-<div class="navitem chatbox"><a href="/index5">astroFlix</a></div><div class="navitem settings"><a href="/index3">astroCade</a></div><div class="navitem cloaking"><a href="/index4">Cloak</a></div>
+<div class="navitem chatbox"><a href="/index5.html">astroFlix</a></div><div class="navitem settings"><a href="/index3.html">astroCade</a></div><div class="navitem cloaking"><a href="/index4.html">Cloak</a></div>
 
 
 </div>
