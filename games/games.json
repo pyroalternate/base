@@ -10,6 +10,11 @@
         "location": "/games/files/webosu"
     },
     {
+        "title": "RetroBowl",
+        "image": "/games/images/icon.jpg",
+        "location": "/games/files/RetroBowl"
+    },
+    {
         "title": "GBA",
         "image": "/games/images/gba.png",
         "location": "/games/files/webretro/?core=mgba"
