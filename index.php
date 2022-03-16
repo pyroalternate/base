@@ -41,12 +41,12 @@
       
   </head>
   
-  <div data-role="page" data-theme="a" class="container" id="one">
+
   <body appearance="dark" class="homepage">
   
   
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  
+  <div data-role="page" data-theme="a" class="container" id="one">
   <div class="navbar">
   
   <div class="navname">astro</div>
