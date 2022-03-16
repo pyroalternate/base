@@ -30,8 +30,8 @@
       <link rel="stylesheet" href="./index_files/style.css">
       <link rel="stylesheet" href="./index_files/light.css">
       <link rel="stylesheet" href="https://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
-	    <script type="text/javascript" src="https://code.jquery.com/jquery-1.6.4.min.js"></script>
-	    <script type="text/javascript" src="https://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+      <script type="text/javascript" src="https://code.jquery.com/jquery-1.6.4.min.js"></script>
+      <script type="text/javascript" src="https://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
       <link rel="stylesheet" href="./index_files/all.min.css">
       <script src="./index_files/jquery.min.js.download"></script>
       <script src="./index_files/index.js.download"></script>
